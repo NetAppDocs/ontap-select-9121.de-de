@@ -2687,13 +2687,7 @@ Sie können einen Cluster mit einer Evaluierungs- oder erworbenen Lizenz für di
   <block id="f2f353da1661ba94dcbb3269b7980ee0" category="list-text">Klicken Sie auf *Neuer Lauf starten* und wählen Sie die Hosts und Netzwerke für das HA-Paar aus</block>
   <block id="0b30e81c88d5ec27b841310a84373595" category="paragraph">Sie können bei Bedarf weitere HA-Paare hinzufügen und konfigurieren.</block>
   <block id="5f81c29f30b61204b5999a7d3c42704f" category="list-text">Klicken Sie auf *Start*, um den Netzwerkverbindungstest zu starten.</block>
-  <block id="09e95b77ffe81fe465a83ba99efad5c8" category="paragraph"><block ref="09e95b77ffe81fe465a83ba99efad5c8" category="inline-link-rx"></block></block>
-  <block id="7aa531e9acfe2b98e34d2c92fe9846ff" category="paragraph"><block ref="7aa531e9acfe2b98e34d2c92fe9846ff" category="inline-link-rx"></block></block>
-  <block id="d7f1fbcf9ce4e42f705add574d262b2c" category="paragraph"><block ref="d7f1fbcf9ce4e42f705add574d262b2c" category="inline-link-rx"></block></block>
-  <block id="fc248f74f5e36542f7f5627b8610e9a3" category="paragraph"><block ref="fc248f74f5e36542f7f5627b8610e9a3" category="inline-link-rx"></block></block>
-  <block id="7d6b000fe1d74e81dd9df936341bd14d" category="paragraph">Die Notice-Datei enthält Informationen über das Urheberrecht von Drittanbietern und die in der NetApp-Software verwendeten Lizenzen.</block>
   <block id="b3a281a86bd3818b168900985a901d99" category="inline-link-macro">Hinweis zu ONTAP Select 9.12.1</block>
-  <block id="2e1360a35e35be9f122a138a3a87b36f" category="list-text"><block ref="2e1360a35e35be9f122a138a3a87b36f" category="inline-link-macro-rx"></block></block>
   <block id="5f21d6245c5bb0178e94ca31973b2629" category="summary">Beim Einsatz des Lizenzmodells der Kapazitäts-Pools anstelle des Lizenzmodells der Kapazitäts-Tiers ergeben sich verschiedene Vorteile.</block>
   <block id="f375253c446097df1911643c823bcebc" category="doc">Zusammenfassung der Vorteile</block>
   <block id="9d7eafb0b72f9b5f7663e196c8c405d4" category="section-title">Effizientere Nutzung der Storage-Kapazität</block>
@@ -3653,7 +3647,6 @@ Intercluster
   <block id="250f6d868aabeaced76663cb583769da" category="sidebar">Managen Sie Ihre Cluster</block>
   <block id="6a66d4f800a8576eee650d6dd676dd9d" category="sidebar">Verwenden Sie die REST-API</block>
   <block id="dfcc398099d6a64026e51ab282e16253" category="sidebar">Mehr Ressourcen</block>
-  <block id="2cf665df8bcce3d8608ac2923c3934b2" category="sidebar">ONTAP Select Ressourcen-Seite</block>
   <block id="fa0fa8503380df9df5c58ad57a531ff5" category="sidebar">ONTAP Select Produktbibliothek</block>
   <block id="c09b5be4c2da04f4040eef1878f258aa" category="sidebar">ONTAP 9-Dokumentation</block>
   <block id="5c7750df890d8a1ae46102a5c56d163d" category="sidebar">ONTAP Select Blogs</block>
@@ -3793,4 +3786,14 @@ Intercluster
   <block id="9b9568babf180c232b393ba5f95ff4c3" category="paragraph">Wenn ein Kapazitäts-Pool-Abonnement ausfällt, warnt das System Sie zuerst, aber nach 30 Tagen, wenn das System heruntergefahren wird, wird es erst neu gestartet, wenn ein aktualisiertes Abonnement auf dem Bereitstellungs-Server installiert wird.</block>
   <block id="f99bb666310fb365b4d0029c161a384b" category="admonition">ONTAP Select 9.12.1 und höher unterstützt jetzt SVM DR als Quelle und Ziel mit maximal 16 Beziehungen. Die DR-Unterstützung der SVM ist auf die Verwendung der Quell-ONTAP-Version auf Version +2 beschränkt. Beispielsweise kann die ONTAP Select 9.12.1 Quelle eine Verbindung mit den Ziel-ONTAP-Versionen 9.12.1, 9.13.1 oder 9.14.1 herstellen.</block>
   <block id="3133aa76a6118a1bc0b33763ed135b4e" category="sidebar">ONTAP Select 9.12.1-Dokumentation</block>
+  <block id="52009bb7ee17227f566cd26a02caee56" category="inline-link-macro"><block ref="52009bb7ee17227f566cd26a02caee56" category="inline-link-rx"></block></block>
+  <block id="a1a9afcf552a769c282769271829889a" category="paragraph"><block ref="a1a9afcf552a769c282769271829889a" category="inline-link-macro-rx"></block></block>
+  <block id="f99aa604031e5049799e73b5c3748a98" category="inline-link-macro"><block ref="f99aa604031e5049799e73b5c3748a98" category="inline-link-rx"></block></block>
+  <block id="5d545fe5152641e2ebe654e336e520e5" category="paragraph"><block ref="5d545fe5152641e2ebe654e336e520e5" category="inline-link-macro-rx"></block></block>
+  <block id="88e5eabd3917048b6927c42496b98f86" category="inline-link-macro"><block ref="88e5eabd3917048b6927c42496b98f86" category="inline-link-rx"></block></block>
+  <block id="dd38f906b37d412de7d1c1dcf4cbf31c" category="paragraph"><block ref="dd38f906b37d412de7d1c1dcf4cbf31c" category="inline-link-macro-rx"></block></block>
+  <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
+  <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
+  <block id="9b73989307c1975dfa4d5e1581e4afe8" category="paragraph">In den Benachrichtigungsdateien finden Sie Informationen zu Urheberrechten und Lizenzen von Drittanbietern, die in der NetApp Software verwendet werden.</block>
+  <block id="6f7ee2dcac0389ff194542776ea48cf9" category="paragraph"><block ref="6f7ee2dcac0389ff194542776ea48cf9" category="inline-link-rx"></block></block>
 </blocks>

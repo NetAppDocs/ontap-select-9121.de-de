@@ -20,7 +20,7 @@ Rechtliche Hinweise ermöglichen den Zugriff auf Copyright-Erklärungen, Marken,
 
 == Urheberrecht
 
-http://www.netapp.com/us/legal/copyright.aspx[]
+link:https://www.netapp.com/company/legal/copyright/["https://www.netapp.com/company/legal/copyright/"^]
 
 
 
@@ -28,7 +28,7 @@ http://www.netapp.com/us/legal/copyright.aspx[]
 
 NetApp, das NETAPP Logo und die auf der NetApp Markenseite aufgeführten Marken sind Marken von NetApp Inc. Andere Firmen- und Produktnamen können Marken der jeweiligen Eigentümer sein.
 
-http://www.netapp.com/us/legal/netapptmlist.aspx[]
+link:https://www.netapp.com/company/legal/trademarks/["https://www.netapp.com/company/legal/trademarks/"^]
 
 
 
@@ -36,19 +36,18 @@ http://www.netapp.com/us/legal/netapptmlist.aspx[]
 
 Eine aktuelle Liste der NetApp Patente finden Sie unter:
 
-https://www.netapp.com/us/media/patents-page.pdf[]
+link:https://www.netapp.com/pdf.html?item=/media/11887-patentspage.pdf["https://www.netapp.com/pdf.html?item=/media/11887-patentspage.pdf"^]
 
 
 
 == Datenschutzrichtlinie
 
-https://www.netapp.com/us/legal/privacypolicy/index.aspx[]
+link:https://www.netapp.com/company/legal/privacy-policy/["https://www.netapp.com/company/legal/privacy-policy/"^]
 
 
 
 == Open Source
 
-Die Notice-Datei enthält Informationen über das Urheberrecht von Drittanbietern und die in der NetApp-Software verwendeten Lizenzen.
+In den Benachrichtigungsdateien finden Sie Informationen zu Urheberrechten und Lizenzen von Drittanbietern, die in der NetApp Software verwendet werden.
 
-* link:https://library.netapp.com/ecm/ecm_download_file/ECMLP2884849["Hinweis zu ONTAP Select 9.12.1"^]
-
+https://library.netapp.com/ecm/ecm_download_file/ECMLP2884849["Hinweis zu ONTAP Select 9.12.1"^]
